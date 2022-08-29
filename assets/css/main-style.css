@@ -1,0 +1,39 @@
+
+.feature-section .icon-wrap .icon_extra {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feature-section .feature-item {
+    padding: 0;
+    background: none;
+}
+.hosting-item .hosting-content .hosting-btn a::after {
+    left: -0.89em;
+    top: 2px;
+}
+/* Navigation Menu */
+.header-search-form {
+    min-width: 418px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+
+
+
+
+
+
+
